@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning in university level computer science 
 - 💞️ I’m looking to collaborate on Teaching computer science 
 - 📫 How to reach me email me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Him His only 
+- ⚡ Fun fact: I Ate When I sleep and Boo 
 
 <!---
 Snave848/Snave848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
